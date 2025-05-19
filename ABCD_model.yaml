@@ -1,0 +1,4 @@
+train: ./ABCD_model/images/train
+val: ./ABCD_model/images/test
+nc: 20
+names: ['D', 'Q', 'S', 'P', 'R', 'O', 'M', 'A', 'G', 'J', 'B', 'I', 'N', 'K', 'F', 'T', 'E', 'L', 'C', 'H']

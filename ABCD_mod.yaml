@@ -1,0 +1,4 @@
+train: ./ABCD_mod/images/train
+val: ./ABCD_mod/images/test
+nc: 10
+names: ['C', 'B', 'G', 'J', 'I', 'A', 'F', 'H', 'D', 'E']
